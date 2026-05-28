@@ -1,1 +1,2 @@
-# mobileClase2
+# mobileClase2 EstadosApp
+Andres Alberto Ariza
